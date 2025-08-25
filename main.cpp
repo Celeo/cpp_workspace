@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Hello world\n";
+  int a = 1000000;
+  std::cout << "a is " << a << std::endl;
+
   return 0;
 }
